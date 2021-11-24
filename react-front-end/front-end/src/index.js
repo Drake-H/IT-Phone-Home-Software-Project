@@ -3,12 +3,26 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import {
+  Navigation,
+  Footer,
+  Main_Page,
+  Schedule_Detail,
+  Schedule_Planner,
+} from "./components";
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
-  document.getElementById('root')
+  <Router>
+    <Navigation />
+    <Switch>
+      <Route path="/" element={<Main_Page/>} />
+      <Route path="Schedule Detail" element={<Schedule_Detail/>} />
+      <Route path="Schedule Planner" element={<Schedule_Planner/>} />
+    </Switch>
+    
+  </Router>,
+  document.getElementById("root")
 );
 
 // If you want to start measuring performance in your app, pass a function
