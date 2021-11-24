@@ -1,15 +1,23 @@
 SHOW TABLES;
-CREATE TABLE class (ClassID INT, CourseNumber TEXT, CreditHours INT, CourseName TEXT, Major TEXT);
+CREATE TABLE class (ClassID INT, CourseNumber TEXT, CreditHours INT, CourseName TEXT, Major TEXT, Semester TEXT, YearsOffered TEXT);
 CREATE TABLE prerequisite (PrerequisiteLinkID INT, ClassID INT, PrerequisiteClassID INT);
+CREATE TABLE accounting (Class TEXT, SchoolYear INT, Semester TEXT);
+CREATE TABLE babmb (Class TEXT, SchoolYear INT, Semester TEXT);
 SHOW TABLES;
 DESCRIBE class;
 SHOW TABLES;
 LOAD DATA LOCAL INFILE 'C:/Users/chris/software-project/database/Classes.txt' INTO TABLE class;
 LOAD DATA LOCAL INFILE 'C:/Users/chris/software-project/database/Prerequisites.txt' INTO TABLE prerequisite;
+LOAD DATA LOCAL INFILE 'C:/Users/chris/software-project/database/AccountingMajor.txt' INTO TABLE accounting;
+LOAD DATA LOCAL INFILE 'C:/Users/chris/software-project/database/BABioChem.txt' INTO TABLE babmb;
 
 SELECT * FROM class;
 
 SELECT * FROM prerequisite;
+
+SELECT * FROM accounting;
+
+SELECT * from babmb;
 
 #Prints the course and its prerequisite
 SELECT CourseNumber, PrereqCourseNumber
