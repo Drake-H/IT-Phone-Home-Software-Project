@@ -13,7 +13,7 @@ function Schedule_Detail(){
                         ></img>
                     </div>
                     <div class="col-lg-5">
-                        <h1 class="font-weight-light">Main Page</h1>
+                        <h1 class="font-weight-light">Schedule Detail</h1>
                         <p>
                             Detailed view of the currently selected schedule. Additional content to be added.
                         </p>
