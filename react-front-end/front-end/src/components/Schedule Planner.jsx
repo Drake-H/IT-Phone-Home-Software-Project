@@ -2,7 +2,7 @@ import React from "react";
 
 function Schedule_Planner(){
     return (
-        <div className = "Schedule Detail">
+        <div className = "Schedule Planner">
             <div class = "container">
                 <div class = "row align items-center my-5">
                     <div class ="col-lg-7">
@@ -13,7 +13,7 @@ function Schedule_Planner(){
                         ></img>
                     </div>
                     <div class="col-lg-5">
-                        <h1 class="font-weight-light">Main Page</h1>
+                        <h1 class="font-weight-light">Schedule Planner</h1>
                         <p>
                             Detailed view of the currently selected schedule. Additional content to be added.
                         </p>

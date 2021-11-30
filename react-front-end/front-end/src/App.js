@@ -1,15 +1,17 @@
-import React from "react";
+/* import React from "react";
+import ReactDOM from "react-dom";
 import { BrowserRouter as Router, Route, Switch} from "react-router-dom";
 import {Navigation, Footer, Main_Page, Schedule_Detail, Schedule_Planner} from "./components";
 function App(){
+  
   return (
     <div className="App">
       <Router>
         <Navigation />
         <Switch>
-          <Route path="/" exact component = {() => <Main_Page />} />
-          <Route path="Schedule Planner" exact component = {() => <Schedule_Planner />} />
-          <Route path="Schedule Detail" exact component = {() => <Schedule_Detail />} />
+          <Route path="/" exact component = {Main_Page} />
+          <Route path="/SchedulePlanner" exact component = {Schedule_Planner} />
+          <Route path="/ScheduleDetail" exact component = {Schedule_Detail} />
         </Switch>
         <Footer />
       </Router>
@@ -17,4 +19,4 @@ function App(){
   );
 }
 
-export default App;
+export default App; */

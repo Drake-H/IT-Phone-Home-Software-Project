@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
 import reportWebVitals from './reportWebVitals';
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import {
@@ -16,10 +15,12 @@ ReactDOM.render(
   <Router>
     <Navigation />
     <Switch>
-      <Route path="/" element={<Main_Page/>} />
-      <Route path="Schedule Detail" element={<Schedule_Detail/>} />
-      <Route path="Schedule Planner" element={<Schedule_Planner/>} />
+      <Route path="/"><Main_Page /></Route>
+      <Route path="/Schedule Detail"><Schedule_Detail /></Route>
+      <Route path="/Schedule Planner"><Schedule_Planner /></Route>
     </Switch>
+
+    <Footer />
     
   </Router>,
   document.getElementById("root")
