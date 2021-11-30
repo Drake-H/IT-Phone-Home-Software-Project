@@ -164,3 +164,40 @@
 164	BIOL 450H	3	Honors Biology Research	BIOL	AS NEEDED	ALL
 165	BIOL 451H	3	Honors Biology Thesis	BIOL	AS NEEDED	ALL
 166	BIOL 499	0	Senior Comprehensive Exam in Biology	BIOL	SPRING	ALL
+167	ECON 110	3	Principles of Macroeconomics	ALL	ALL
+168	ECON 111	3	Principles of Microeconomics	ALL	ALL
+169	ECON 314	3	International Trade and Finance	FALL, SPRING	ALL
+170	ECON 410	3	Econometrics	FALL	ALL
+171	BUSA 103	3	Introduction to Business	ALL	ALL
+172	BUSA 245	3	Managing Information Technology	FALL, SPRING	ALL
+173	BUSA 301	3	Principles of Management	FALL, SPRING	ALL
+174	BUSA 305	3	Principles of Marketing	FALL, SPRING	ALL
+175	BUSA 346	3	Management Science	FALL, SPRING	ALL
+176	BUSA 403	3	Advanced Business Law	FALL, SPRING	ALL
+177	BUSA 499	0	Senior Comprehensive Exam in Business Administration	ALL	ALL
+178	FINA 315	3	Business Finance	ALL	ALL
+179	COMM 103	3	Introduction to Public Speaking	ALL	ALL
+180	COMM 205	3	Business and Professional Communication	ALL	ALL
+181	PSYC 103	3	Introductory Psychology	FALL, SPRING	ALL
+182	ENGL 101	3	Introduction to Academic Writing	ALL	ALL
+183	ENGL 200	3	Introduction to Literature	ALL	ALL
+184	HIST 116	3	The Western World I, 1450 to 1870	ALL	ALL
+185	HIST 117	3	The Western World II, 1870 to Present	ALL	ALL
+186	MATH 117	4	Calculus I	ALL	ALL
+187	MATH 125	4	Business Calculus	ALL	ALL
+188	MATH 205	4	Elementary Statistics	ALL	ALL
+189	MATH 216	3	Calculus III	FALL	ALL
+190	MATH 314	3	Probability and Mathematical Statistics I	FALL	ALL
+191	MATH 315	3	Probability and Mathematical Statistics II	SPRING	ALL
+192	IDC 101	3	First-Year Seminar	ALL	ALL
+193	IDC 401	3	Senior Seminar	ALL	ALL
+194	THEO 200	3	Ultimate Questions	ALL	ALL
+195	PHIL 101	3	Introduction to Philosophy	ALL	ALL
+196	PHIL 301	3	Ethics	ALL	ALL
+197	CHEM 103	4	General College Chemistry I	ALL	ALL
+198	CHEM 104	4	General College Chemistry II	SPRING	ALL
+199	CHEM 205	4	Organic Chemistry I	FALL	ALL
+200	CHEM 206	4	Organic Chemistry II	SPRING	ALL
+201	PHYS 205	4	University Physics I	FALL	ALL
+202	PHYS 206	4	University Physics II	SPRING	ALL
+
