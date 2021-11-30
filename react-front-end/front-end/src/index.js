@@ -15,9 +15,9 @@ ReactDOM.render(
   <Router>
     <Navigation />
     <Switch>
-      <Route path="/"><Main_Page /></Route>
-      <Route path="/Schedule Detail"><Schedule_Detail /></Route>
       <Route path="/Schedule Planner"><Schedule_Planner /></Route>
+      <Route path="/Schedule Detail"><Schedule_Detail /></Route>
+      <Route path="/"><Main_Page /></Route>
     </Switch>
 
     <Footer />
