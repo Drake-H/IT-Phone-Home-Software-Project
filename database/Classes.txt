@@ -1,0 +1,203 @@
+001	ACCT 101	3	Principles of Financial Accounting	ACCT	ALL	ALL
+002	ACCT 102	3	Principles of Managerial Accounting	ACCT	FALL, SPRING	ALL
+003	ACCT 211	3	Financial Accounting I	ACCT	FALL, SUMMER	ALL
+004	ACCT 212	3	Financial Accounting II	ACCT	FALL, SPRING	ALL
+005	ACCT 215	3	Managerial Accounting	ACCT	FALL	ALL
+006	ACCT 225	3	Accounting Information Systems	ACCT	SPRING	ALL
+007	ACCT 313	3	Advanced Financial Accounting 1	ACCT	FALL, SPRING	ALL
+008	ACCT 317	3	Taxation I	ACCT	FALL	ALL
+009	ACCT 318	3	Taxation II	ACCT	SPRING	ALL
+010	ACCT 414	3	Advanced Financial Accounting II	ACCT	SPRING	ALL
+011	ACCT 418	3	Auditing I	ACCT	FALL	ALL
+012	ACCT 419	3	Auditing II	ACCT	SPRING	ALL
+013	ACCT 420	3	Data Analytics for Accounting	ACCT	SPRING	ALL
+014	ACCT 423	3	Independent Study	ACCT	AS NEEDED	ALL
+015	ACCT 441	1	Contemporary Issues in Accounting I	ACCT	AS NEEDED	ALL
+016	ACCT 441	2	Contemporary Issues in Accounting I	ACCT	AS NEEDED	ALL
+017	ACCT 441	3	Contemporary Issues in Accounting I	ACCT	AS NEEDED	ALL
+018	ACCT 442	1	Contemporary Issues in Accounting II	ACCT	AS NEEDED	ALL
+019	ACCT 442	2	Contemporary Issues in Accounting II	ACCT	AS NEEDED	ALL
+020	ACCT 442	3	Contemporary Issues in Accounting II	ACCT	AS NEEDED	ALL
+021	ACCT 444	1	Internship	ACCT	ALL	ALL
+022	ACCT 444	2	Internship	ACCT	ALL	ALL
+023	ACCT 444	3	Internship	ACCT	ALL	ALL
+024	ACCT 444	4	Internship	ACCT	ALL	ALL
+025	ACCT 444	5	Internship	ACCT	ALL	ALL
+026	ACCT 444	6	Internship	ACCT	ALL	ALL
+027	ART 101	3	Drawing I	ART	ALL	ALL
+028	ART 102	3	Drawing II	ART	ALL	ALL
+029	ART 210	3	Art Concepts	ART	SPRING	ALL
+030	ART 211	3	Two Dimensional Design	ART	FALL	ALL
+031	ART 230	3	Three Dimensional Design	ART	FALL	ALL
+032	ART 231	3	Digital Foundations	ART	ALL	ALL
+033	ART 242	3	Beginning Ceramics	ART	ALL	ALL
+034	ART 243	3	Advanced Ceramics	ART	ALL	ALL
+035	ART 260	3	Beginning Photography	ART	ALL	ALL
+036	ART 280	3	Painting 1	ART	ALL	ALL
+037	ART 290	3	Sculpture: Materials	ART	AS REQUIRED	ALL
+038	ART 313	3	Figure Drawing I	ART	SPRING	ALL
+039	ART 314	3	Figure Drawing II	ART	SPRING	ALL
+040	ART 325	3	Web Art	ART	AS REQUIRED	ALL
+041	ART 330	3	Video Art	ART	AS REQUIRED	ALL
+042	ART 333	3	Digital Illustration	ART	AS REQUIRED	ALL
+043	ART 342	3	Special Topics in Art	ART	AS REQUIRED	ALL
+044	ART 360	3	Black and White Photography	ART	AS REQUIRED	ALL
+045	ART 362	3	Studio Practices in Photography	ART	AS REQUIRED	ALL
+046	ART 364	3	Intermediate Photography	ART	AS REQUIRED	ALL
+047	ART 380	3	Painting II	ART	ALL	ALL
+048	ART 381	3	Painting III	ART	ALL	ALL
+049	ART 390	3	Sculpture: Time and Context	ART	AS REQUIRED	ALL
+050	ART 410	3	Portfolio	ART	FALL	ALL
+051	ART 411	3	Senior Project	ART	AS REQUIRED	ALL
+052	ART 423	1	Independent Study	ART	AS REQUIRED	ALL
+053	ART 423	2	Independent Study	ART	AS REQUIRED	ALL
+054	ART 423	3	Independent Study	ART	AS REQUIRED	ALL
+055	ART 444	1	Internship	ART	ALL	ALL
+056	ART 444	2	Internship	ART	ALL	ALL
+057	ART 444	3	Internship	ART	ALL	ALL
+058	ART 460	3	Alternative Photographic Processes	ART	AS REQUIRED	ALL
+059	ART 480	3	Painting IV	ART	ALL	ALL
+060	ART 490	3	Sculpture Seminar	ART	AS REQUIRED	ALL
+061	ARTH 201	3	Art History: Ancient to Medieval	ARTH	AS REQUIRED	ALL
+062	ARTH 202	3	Art History: Renaissance to Modern	ARTH	AS REQUIRED	ALL
+063	ARTH 319	3	Art History: 19th Century	ARTH	AS REQUIRED	ALL
+064	ARTH 320	3	Art History: 20th Century	ARTH	AS REQUIRED	ALL
+065	ARTH 321	3	Art History: 21st Century	ARTH	AS REQUIRED	ALL
+066	ARTH 330	3	African Art History	ARTH	AS REQUIRED	ALL
+067	ARTH 342	3	Special Topics in Art History	ARTH	AS REQUIRED	ALL
+068	ARTH 350	3	The History of Photography	ARTH	AS REQUIRED	ALL
+069	ARTA 100	3	Exploring the Arts & Arts Administration	ARTA	FALL, AS REQUIRED	ALL
+070	ARTA 200	3	Writing About the Arts	ARTA	AS REQUIRED	ALL
+071	ARTA 250	3	Fundraising and Grant Writing for the Arts	ARTA
+072	ARTA 300	3	Arts Administration Seminar	ARTA	SPRING, AS REQUIRED	ALL
+073	ARTA 301	3	Arts Organization Management & Structure	ARTA
+074	ARTA 305	3	Marketing the Arts	ARTA
+075	ARTA 350	3	Law, Public Policy, and the Arts	ARTA
+076	ARTA 400	3	Contemporary Issues in Art Management	ARTA
+077	ARTA 423	1	Independent Study	ARTA	AS REQUIRED	ALL
+078	ARTA 423	2	Independent Study	ARTA	AS REQUIRED	ALL
+079	ARTA 423	3	Independent Study	ARTA	AS REQUIRED	ALL
+080	ARTA 444	3	Internship I	ARTA	ALL	ALL
+081	ARTA 445	3	Internship II	ARTA	ALL	ALL
+082	BU 100	1	First-Year Focus	BU	FALL	ALL
+083	BU 199	1	Career Pathways Exploration	BU	FALL, SPRING	ALL
+084	BU 250	1	Community-based Learning Practicum	BU	AS REQUIRED	ALL
+085	BU 299	1	Internship Preparation and Success	BU	AS REQUIRED	ALL
+086	BU 310	1	Experiential Prior Learning Assessment I	BU
+087	BU 311	1	Experiential Prior Learning Assessment II	BU
+088	BU 399	1	Returners Student Success	BU
+089	BMB 101	1	Explorations in Biochemistry	BMB	SPRING	ALL
+090	BMB 110	3	The Biochemistry of Food and the Science of Cooking	BMB	AS NEEDED	ALL
+091	BMB 231	1	Sophomore Independent Research Experience	BMB	AS NEEDED	ALL
+092	BMB 301	4	Biochemistry I	BMB	FALL	ALL
+093	BMB 302	4	Biochemistry II	BMB	SPRING	ALL
+094	BMB 317	4	Molecular Biology	BMB	SPRING	ALL
+095	BMB 330	1	Junior Research	BMB	AS NEEDED	ALL
+096	BMB 330H	1	Honors Junior Research	BMB	AS NEEDED	ALL
+097	BMB 331	1	Junior Independent Research Experience	BMB	AS NEEDED	ALL
+098	BMB 370	3	Research Methods in Biochemistry	BMB	SPRING	ALL
+099	BMB 401	3	Advancd Biochemistry	BMB	SPRING	ALL
+100	BMB 402	3	Physical Biochemistry	BMB	FALL	ALL
+101	BMB 430	2	Senior Research 1	BMB	AS REQUIRED	ALL
+102	BMB 431	1	Senior Independent Research Experience	BMB	AS NEEDED	ALL
+103	BMB 444	1	Internship	BMB	AS NEEDED	ALL
+104	BMB 444	2	Internship	BMB	AS NEEDED	ALL
+105	BMB 444	3	Internship	BMB	AS NEEDED	ALL
+106	BMB 450H	3	Honors Biochemistry and Molecular Biology Research	BMB	AS NEEDED	ALL
+107	BMB 451H	3	Honors Biochemistry and Molecular Biology Thesis	BMB	AS NEEDED	ALL
+108	BMB 498	0	Comprehensive Skills Assessment	BMB	AS NEEDED	ALL
+109	BMB 499	0	Conceptual Knowledge Assessment	BMB	AS NEEDED	ALL
+110	BIOL 108	4	Human Anatomy and Physiology 1	BIOL	FALL, SPRING	ALL
+111	BIOL 109	4	Human Anatomy and Physiology II	BIOL	SPRING, SUMMER	ALL
+112	BIOL 113	3	Biology at the Zoo	BIOL	ALL	ALL
+113	BIOL 114	3	Human Biology: Health and Disease	BIOL	AS NEEDED	ALL
+114	BIOL 115	3	Introduction to Life Science	BIOL	AS NEEDED	ALL
+115	BIOL 125	3	Foundations in Biology	BIOL
+116	BIOL 130	4	Principles of Biology	BIOL	FALL, SPRING, AS REQUIRED	ALL
+117	BIOL 220	4	Plant Diversity	BIOL	FALL	ALL
+118	BIOL 221	4	Animal Diversity	BIOL	SPRING	ALL
+119	BIOL 225	2	Tropical Marine Biology: Lecture	BIOL	SPRING	ODD
+120	BIOL 226	2	Tropical Marine Biology: Field Studies	BIOL	SPRING	ODD
+121	BIOL 227	1	Field Biology: Lecture	BIOL	AS NEEDED	ALL
+122	BIOL 227	2	Field Biology: Lecture	BIOL	AS NEEDED	ALL
+123	BIOL 227	3	Field Biology: Lecture	BIOL	AS NEEDED	ALL
+124	BIOL 228	1	Field Biology: Field Studies	BIOL	SPRING	ODD
+125	BIOL 228	2	Field Biology: Field Studies	BIOL	SPRING	ODD
+126	BIOL 228	3	Field Biology: Field Studies	BIOL	SPRING	ODD
+127	BIOL 228	4	Field Biology: Field Studies	BIOL	SPRING	ODD
+128	BIOL 231	4	Cell Biology	BIOL	FALL	ALL
+129	BIOL 237	4	Paleontology	BIOL	FALL	ODD
+130	BIOL 240	4	Genetics	BIOL	SPRING	ALL
+131	BIOL 300	3	Pathophysiology	BIOL	AS NEEDED	ALL
+132	BIOL 313	4	Microbiology	BIOL	FALL	ALL
+133	BIOL 314	4	Vertebrate Physiology	BIOL	FALL	ALL
+134	BIOL 317	4	Molecular Biology	BIOL	SPRING	ALL
+135	BIOL 319	1	Biology Research I	BIOL	AS NEEDED	ALL
+136	BIOL 319	2	Biology Research I	BIOL	AS NEEDED	ALL
+137	BIOL 320	1	Biology Research II	BIOL	AS NEEDED	ALL
+138	BIOL 320	2	Biology Research II	BIOL	AS NEEDED	ALL
+139	BIOL 331	4	Evolutionary Ecology of Disease	BIOL
+140	BIOL 401	4	Comparative Vertebrate Anatomy	BIOL	AS NEEDED	ALL
+141	BIOL 405	4	Developmental Biology	BIOL	AS NEEDED	ALL
+142	BIOL 406	4	Entomology	BIOL	AS NEEDED	ALL
+143	BIOL 408	4	Ecology	BIOL	FALL	ALL
+144	BIOL 410	4	Histology	BIOL	AS NEEDED	ALL
+145	BIOL 413	4	Immunology	BIOL	AS NEEDED	ALL
+146	BIOL 415	4	Animal Behavior	BIOL	AS NEEDED	ALL
+147	BIOL 419	1	Senior Research I	BIOL	AS NEEDED	ALL
+148	BIOL 419	2	Senior Research I	BIOL	AS NEEDED	ALL
+149	BIOL 420	1	Senior Research II	BIOL	AS NEEDED	ALL
+150	BIOL 420	2	Senior Research II	BIOL	AS NEEDED	ALL
+151	BIOL 423	1	Independent Study	BIOL	AS NEEDED	ALL
+152	BIOL 423	2	Independent Study	BIOL	AS NEEDED	ALL
+153	BIOL 423	3	Independent Study	BIOL	AS NEEDED	ALL
+154	BIOL 430	3	Evolution	BIOL	AS NEEDED	ALL
+155	BIOL 435	4	Gross Anatomy	BIOL	AS NEEDED	ALL
+156	BIOL 441	3	Selected Topics in Biology	BIOL	AS NEEDED	ALL
+157	BIOL 442	4	Selected Topics in Biology with Lab	BIOL	AS NEEDED	ALL
+158	BIOL 444	1	Internship I	BIOL	AS NEEDED	ALL
+159	BIOL 444	2	Internship I	BIOL	AS NEEDED	ALL
+160	BIOL 444	3	Internship I	BIOL	AS NEEDED	ALL
+161	BIOL 445	1	Internship II	BIOL	AS NEEDED	ALL
+162	BIOL 445	2	Internship II	BIOL	AS NEEDED	ALL
+163	BIOL 445	3	Internship II	BIOL	AS NEEDED	ALL
+164	BIOL 450H	3	Honors Biology Research	BIOL	AS NEEDED	ALL
+165	BIOL 451H	3	Honors Biology Thesis	BIOL	AS NEEDED	ALL
+166	BIOL 499	0	Senior Comprehensive Exam in Biology	BIOL	SPRING	ALL
+167	ECON 110	3	Principles of Macroeconomics	ALL	ALL
+168	ECON 111	3	Principles of Microeconomics	ALL	ALL
+169	ECON 314	3	International Trade and Finance	FALL, SPRING	ALL
+170	ECON 410	3	Econometrics	FALL	ALL
+171	BUSA 103	3	Introduction to Business	ALL	ALL
+172	BUSA 245	3	Managing Information Technology	FALL, SPRING	ALL
+173	BUSA 301	3	Principles of Management	FALL, SPRING	ALL
+174	BUSA 305	3	Principles of Marketing	FALL, SPRING	ALL
+175	BUSA 346	3	Management Science	FALL, SPRING	ALL
+176	BUSA 403	3	Advanced Business Law	FALL, SPRING	ALL
+177	BUSA 499	0	Senior Comprehensive Exam in Business Administration	ALL	ALL
+178	FINA 315	3	Business Finance	ALL	ALL
+179	COMM 103	3	Introduction to Public Speaking	ALL	ALL
+180	COMM 205	3	Business and Professional Communication	ALL	ALL
+181	PSYC 103	3	Introductory Psychology	FALL, SPRING	ALL
+182	ENGL 101	3	Introduction to Academic Writing	ALL	ALL
+183	ENGL 200	3	Introduction to Literature	ALL	ALL
+184	HIST 116	3	The Western World I, 1450 to 1870	ALL	ALL
+185	HIST 117	3	The Western World II, 1870 to Present	ALL	ALL
+186	MATH 117	4	Calculus I	ALL	ALL
+187	MATH 125	4	Business Calculus	ALL	ALL
+188	MATH 205	4	Elementary Statistics	ALL	ALL
+189	MATH 216	3	Calculus III	FALL	ALL
+190	MATH 314	3	Probability and Mathematical Statistics I	FALL	ALL
+191	MATH 315	3	Probability and Mathematical Statistics II	SPRING	ALL
+192	IDC 101	3	First-Year Seminar	ALL	ALL
+193	IDC 401	3	Senior Seminar	ALL	ALL
+194	THEO 200	3	Ultimate Questions	ALL	ALL
+195	PHIL 101	3	Introduction to Philosophy	ALL	ALL
+196	PHIL 301	3	Ethics	ALL	ALL
+197	CHEM 103	4	General College Chemistry I	ALL	ALL
+198	CHEM 104	4	General College Chemistry II	SPRING	ALL
+199	CHEM 205	4	Organic Chemistry I	FALL	ALL
+200	CHEM 206	4	Organic Chemistry II	SPRING	ALL
+201	PHYS 205	4	University Physics I	FALL	ALL
+202	PHYS 206	4	University Physics II	SPRING	ALL
+
