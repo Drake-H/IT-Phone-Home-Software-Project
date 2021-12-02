@@ -1,4 +1,4 @@
-## Welcome to cporterbellarmine!
+## Welcome to cporterbellarmine and Drake-H!
 
 My name is Christina Porter and with this project, I worked with Drake Hovsepian for our CS 400 Software Design and Development course.
 
